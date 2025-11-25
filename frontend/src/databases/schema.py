@@ -1,0 +1,1 @@
+# Create the database schema for the frontend application
